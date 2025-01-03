@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yilin</h1>
-<h3 align="center">A passionate AI researcher with interdisciplinary background in Finance, Geographic Information Science (GIS) and Remote Sensing (RS).</h3>
+<h3 align="center">A passionate AI researcher with interdisciplinary background in social science, such as Finance, Geographic Information Science (GIS) and Remote Sensing (RS).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lyl010-adela&label=Profile%20views&color=0e75b6&style=flat" alt="lyl010-adela" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m interested in **the intersection of AI and business, GeoAI...**
 
-- 👯 I’m looking to collaborate on **Time Series Prediction**.
+- 👯 I am looking for **computational social science**-related PhD positions.
 
 - 📫 How to reach me **adelalin2000@gmail.com**.
 
