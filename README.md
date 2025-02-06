@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lyl010-adela&label=Profile%20views&color=0e75b6&style=flat" alt="lyl010-adela" /> </p>
 
-- 🔭 I’m currently working at [World Trade Organization](https://www.wto.org/) as an AI research consultant.
+- 🔭 I am currently working as a Data Analyst in the Trade Policy Statistics and Big Data Team at the [World Trade Organization](https://www.wto.org/), where I focus on time-series forecasting projects using Graph Neural Networks (GNNs) at the intersection of AI and economics.
   
 - 🎓 I got my B.E. Degree in Surveying and Mapping from [WHU-SGG](http://main.sgg.whu.edu.cn/). I’m currently learning Data Science (M.Sc.) in [PKU-AAIS](http://www.aais.pku.edu.cn/).
 
