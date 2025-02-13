@@ -7,9 +7,7 @@
   
 - 🎓 I got my B.E. Degree in Surveying and Mapping from [WHU-SGG](http://main.sgg.whu.edu.cn/). I’m currently learning Data Science (M.Sc.) in [PKU-AAIS](http://www.aais.pku.edu.cn/).
 
-- 🌱 I’m interested in **the intersection of AI and business, GeoAI...**
-
-- 👯 I am looking for **computational social science**-related PhD positions.
+- 🌱 I’m interested in **social computing, GeoAI...**
 
 - 📫 How to reach me **adelalin2000@gmail.com**.
 
