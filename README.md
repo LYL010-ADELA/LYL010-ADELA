@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yilin</h1>
-<h3 align="center">A passionate AI researcher with interdisciplinary background in social science, such as Economics, Geographic Information Science (GIS) and Remote Sensing (RS).</h3>
+<h3 align="center">A passionate AI researcher with interdisciplinary background in social science. I am interested in **AI + Economics, Geographic Information Science (GIS) and Remote Sensing (RS)**.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lyl010-adela&label=Profile%20views&color=0e75b6&style=flat" alt="lyl010-adela" /> </p>
 
