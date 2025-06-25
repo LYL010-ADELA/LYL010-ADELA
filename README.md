@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yilin</h1>
-<h3 align="center">A passionate AI researcher with interdisciplinary background in social science.</h3>
+<h3 align="center">AI Researcher | GeoAI & Social Computing Enthusiast | Data Scientist</h3>
+<h3 align="center">I'm currently exploring PhD opportunities in <strong>GeoAI</strong> and <strong>Social Computing</strong>.</h3>
 <h3 align="center">With a strong academic foundation in Data Science, Geographic Information Science (GIS), and Remote Sensing (RS), and professional experience in AI applied to Economics and Finance, I am particularly interested in the intersection of AI, Economics/Finance, and Social Computing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lyl010-adela&label=Profile%20views&color=0e75b6&style=flat" alt="lyl010-adela" /> </p>
