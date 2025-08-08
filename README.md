@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **adelalin2000@gmail.com**.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/yilin-lin/](https://www.linkedin.com/in/yilin-lin/).
+- 📄 Know about my experiences via [my Linkedin](https://www.linkedin.com/in/yilin-lin/).
 
 <h3 align="left">Languages and Tools:</h3>
 
