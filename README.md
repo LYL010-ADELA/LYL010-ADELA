@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Yilin</h1> 
-<h3 align="center">AI Researcher | GeoAI & Social Computing Enthusiast | Data Scientist</h3> 
-<!-- <h3 align="center"> I'm currently exploring PhD opportunities in <strong>GeoAI</strong> and <strong>Social Computing</strong>. </h3> -->
-<p align="center"> With an interdisciplinary background combining <strong>Artificial Intelligence</strong>, <strong>Social Sciences</strong>, and <strongEconomics/Finance</strong>, I aim to tackle real-world problems through spatial-temporal data modeling and machine learning. </p>
+<h3 align="center">PhD Researcher in GeoAI & Social Computing</h3> 
+<!-- <h3 align="center">I am a PhD Candidate at the **Geocomputation Unit, University of Zurich**, where I work on the
+SNF research project **DigiLand** (Digitalizing Multifunctional Landscapes). </h3> -->
+My research focuses on:
+
+- 🌍 **GeoAI** → spatial machine learning, LLMs with geospatial context
+- 🧠 **Social Computing** → understanding how people attach meaning to places
+- 🧾 **Text mining / NLP** → extracting landscape values from online narratives
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lyl010-adela&label=Profile%20views&color=0e75b6&style=flat" alt="lyl010-adela" /> </p>
 
-- 🔭 I worked as a Data Analyst in the Trade Policy Statistics and Big Data Team at the [World Trade Organization](https://www.wto.org/), where I focus on time-series forecasting projects using Graph Neural Networks (GNNs) at the intersection of AI and economics.
+- 🔭 I worked as a Data Analyst in the Trade Policy Statistics and Big Data Team at the [World Trade Organization](https://www.wto.org/), where I focused on time-series forecasting projects using Graph Neural Networks (GNNs) at the intersection of AI and economics.
   
 - 🎓 I got my B.E. Degree in Surveying and Mapping from [WHU-SGG](http://main.sgg.whu.edu.cn/) and my M.Sc. Degree in Data Science from [PKU-AAIS](http://www.aais.pku.edu.cn/).
 
