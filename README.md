@@ -2,7 +2,7 @@
 <h3 align="center">PhD Researcher in GeoAI & Social Computing</h3> 
 
 I am a PhD Candidate at the **Geocomputation Unit, University of Zurich**, where I work on the
-SNF research project [**DigiLand**] (https://data.snf.ch/grants/grant/10004480).
+SNF research project [**DigiLand**](https://data.snf.ch/grants/grant/10004480).
 
 My research focuses on **Geospatial AI, Natural Language Processing, and Computational Social Science**. I enjoy turning messy data into structured insights and building models that help us understand how people interact with places.
 
