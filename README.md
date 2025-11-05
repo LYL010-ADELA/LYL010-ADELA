@@ -1,20 +1,14 @@
 <h1 align="center">Hi 👋, I'm Yilin</h1> 
 <h3 align="center">PhD Researcher in GeoAI & Social Computing</h3> 
-<!-- <h3 align="center">I am a PhD Candidate at the **Geocomputation Unit, University of Zurich**, where I work on the
-SNF research project **DigiLand** (Digitalizing Multifunctional Landscapes). </h3> -->
-My research focuses on:
 
-- 🌍 **GeoAI** → spatial machine learning, LLMs with geospatial context
-- 🧠 **Social Computing** → understanding how people attach meaning to places
-- 🧾 **Text mining / NLP** → extracting landscape values from online narratives
+I am a PhD Candidate at the **Geocomputation Unit, University of Zurich**, where I work on the
+SNF research project **DigiLand** (https://data.snf.ch/grants/grant/10004480).
+
+My research focuses on **Geospatial AI, Natural Language Processing, and Computational Social Science**. I enjoy turning messy data into structured insights and building models that help us understand how people interact with places.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lyl010-adela&label=Profile%20views&color=0e75b6&style=flat" alt="lyl010-adela" /> </p>
 
-- 🔭 I worked as a Data Analyst in the Trade Policy Statistics and Big Data Team at the [World Trade Organization](https://www.wto.org/), where I focused on time-series forecasting projects using Graph Neural Networks (GNNs) at the intersection of AI and economics.
-  
-- 🎓 I got my B.E. Degree in Surveying and Mapping from [WHU-SGG](http://main.sgg.whu.edu.cn/) and my M.Sc. Degree in Data Science from [PKU-AAIS](http://www.aais.pku.edu.cn/).
-
-- 🌱 I’m interested in **social computing, GeoAI...**
+- 🎓 I got my B.E. Degree in Surveying and Mapping from [SGG, Wuhan University](http://main.sgg.whu.edu.cn/) and my M.Sc. Degree in Data Science from [AAIS, Peking University](http://www.aais.pku.edu.cn/).
 
 - 📫 How to reach me **adelalin2000@gmail.com**.
 
