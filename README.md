@@ -14,7 +14,7 @@ My research focuses on **Geospatial AI, Natural Language Processing, and Computa
 
 - 📄 Know about my experiences via [my Linkedin](https://www.linkedin.com/in/yilin-lin/).
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 
 #### 🔨 Programming Languages
 <p align="left">
@@ -74,7 +74,7 @@ My research focuses on **Geospatial AI, Natural Language Processing, and Computa
 #### 🎮 Game Development
 <p align="left">
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-</p>
+</p> -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lyl010-adela&show_icons=true&locale=en&layout=compact" alt="lyl010-adela" /></p>
 
